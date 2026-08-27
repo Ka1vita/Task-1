@@ -1,0 +1,10 @@
+{
+  "users": [
+    { "id": 1, "name": "Acer", "email": "acer@example.com" },
+    { "id": 2, "name": "Priya", "email": "priya@example.com" }
+  ],
+  "todos": [
+    { "id": 1, "title": "Learn json-server", "completed": false, "userId": 1 },
+    { "id": 2, "title": "Build API", "completed": false, "userId": 1 }
+  ]
+}
